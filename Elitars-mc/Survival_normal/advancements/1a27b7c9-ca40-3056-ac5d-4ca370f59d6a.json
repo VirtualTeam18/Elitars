@@ -1,0 +1,23 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-07-29 17:52:32 +0000",
+      "minecraft:mountains": "2020-07-29 17:53:56 +0000",
+      "minecraft:plains": "2020-07-29 17:52:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2020-07-29 17:53:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-07-29 17:55:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2567
+}
