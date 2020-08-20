@@ -1,0 +1,351 @@
+Minecraft
+    ** Full Server Tick Time: 11720554626 Count: 1157 Avg: 10130125 Violations: 5
+    Player List Time: 640616 Count: 1158 Avg: 553 Violations: 0
+    Command Functions Time: 1485234 Count: 1158 Avg: 1282 Violations: 0
+    Connection Handler Time: 2797337 Count: 1158 Avg: 2415 Violations: 0
+    Tickables Time: 563451 Count: 1158 Avg: 486 Violations: 0
+    Scheduler Time: 73167536 Count: 1157 Avg: 63239 Violations: 0
+    Time Update Time: 435398 Count: 1158 Avg: 375 Violations: 0
+    Server Command Time: 1697701 Count: 1158 Avg: 1466 Violations: 0
+    World Save Time: 218232550 Count: 1 Avg: 218232550 Violations: 4
+    ** entityMove Time: 1365917911 Count: 90814 Avg: 15040 Violations: 0
+    ** tickEntity Time: 3642176710 Count: 676272 Avg: 5385 Violations: 0
+    ** activatedTickEntity Time: 3348527465 Count: 137134 Avg: 24417 Violations: 0
+    ** tickTileEntity Time: 88520445 Count: 64848 Avg: 1365 Violations: 0
+    ** livingEntityBaseTick Time: 795943344 Count: 108184 Avg: 7357 Violations: 0
+    ** livingEntityAI Time: 773215199 Count: 108184 Avg: 7147 Violations: 0
+    ** livingEntityAICollision Time: 55478250 Count: 108184 Avg: 512 Violations: 0
+    ** livingEntityAIMove Time: 1500993690 Count: 108184 Avg: 13874 Violations: 0
+    ** livingEntityTickRest Time: 25686988 Count: 108184 Avg: 237 Violations: 0
+    processQueue Time: 1410575 Count: 1158 Avg: 1218 Violations: 0
+    ** Scheduler - Sync Tasks Time: 51592007 Count: 9869 Avg: 5227 Violations: 0
+    entityActivationCheck Time: 3887550 Count: 11580 Avg: 335 Violations: 0
+    ** checkIfActive Time: 69993117 Count: 494466 Avg: 141 Violations: 0
+    ** Survival_normal - doChunkUnload Time: 2533338 Count: 1158 Avg: 2187 Violations: 0
+    ** Survival_normal - doTickPending Time: 149629842 Count: 1158 Avg: 129214 Violations: 0
+    ** Survival_normal - doChunkMap Time: 15094579 Count: 1158 Avg: 13035 Violations: 0
+    ** Survival_normal - doSounds Time: 243674 Count: 1158 Avg: 210 Violations: 0
+    ** Survival_normal - entityTick Time: 597658837 Count: 1158 Avg: 516112 Violations: 0
+    ** Survival_normal - tileEntityTick Time: 33502819 Count: 1158 Avg: 28931 Violations: 0
+    ** Survival_normal - tileEntityPending Time: 78659 Count: 1158 Avg: 67 Violations: 0
+    ** Survival_normal - syncChunkLoad Time: 22346610 Count: 30567 Avg: 731 Violations: 0
+    Survival_normal - tracker Time: 80578663 Count: 1158 Avg: 69584 Violations: 0
+    Survival_normal - doTick Time: 1643227529 Count: 1158 Avg: 1419022 Violations: 0
+    Survival_normal - tickEntities Time: 601137953 Count: 1158 Avg: 519117 Violations: 0
+    ** Survival_normal_nether - doChunkUnload Time: 1647486 Count: 1158 Avg: 1422 Violations: 0
+    ** Survival_normal_nether - doTickPending Time: 693347110 Count: 1158 Avg: 598745 Violations: 0
+    ** Survival_normal_nether - doChunkMap Time: 87186109 Count: 1158 Avg: 75290 Violations: 0
+    ** Survival_normal_nether - doSounds Time: 149259 Count: 1158 Avg: 128 Violations: 0
+    ** Survival_normal_nether - entityTick Time: 318553105 Count: 1158 Avg: 275089 Violations: 0
+    ** Survival_normal_nether - tileEntityTick Time: 24029372 Count: 1158 Avg: 20750 Violations: 0
+    ** Survival_normal_nether - tileEntityPending Time: 72629 Count: 1158 Avg: 62 Violations: 0
+    ** Survival_normal_nether - syncChunkLoad Time: 34044802 Count: 88863 Avg: 383 Violations: 0
+    Survival_normal_nether - tracker Time: 36359474 Count: 1158 Avg: 31398 Violations: 0
+    Survival_normal_nether - doTick Time: 1754650138 Count: 1158 Avg: 1515241 Violations: 0
+    Survival_normal_nether - tickEntities Time: 320919409 Count: 1158 Avg: 277132 Violations: 0
+    ** Survival_normal_the_end - doChunkUnload Time: 1358136 Count: 1158 Avg: 1172 Violations: 0
+    ** Survival_normal_the_end - doTickPending Time: 12743682 Count: 1158 Avg: 11004 Violations: 0
+    ** Survival_normal_the_end - doChunkMap Time: 6033765 Count: 1158 Avg: 5210 Violations: 0
+    ** Survival_normal_the_end - doSounds Time: 146017 Count: 1158 Avg: 126 Violations: 0
+    ** Survival_normal_the_end - entityTick Time: 216314456 Count: 1158 Avg: 186800 Violations: 0
+    ** Survival_normal_the_end - tileEntityTick Time: 10527037 Count: 1158 Avg: 9090 Violations: 0
+    ** Survival_normal_the_end - tileEntityPending Time: 58806 Count: 1158 Avg: 50 Violations: 0
+    ** Survival_normal_the_end - syncChunkLoad Time: 4022704 Count: 10370 Avg: 387 Violations: 0
+    Survival_normal_the_end - tracker Time: 32855260 Count: 1158 Avg: 28372 Violations: 0
+    Survival_normal_the_end - doTick Time: 839598384 Count: 1158 Avg: 725041 Violations: 0
+    Survival_normal_the_end - tickEntities Time: 222482097 Count: 1158 Avg: 192126 Violations: 0
+    ** tickEntity - EntitySheep Time: 40157430 Count: 347 Avg: 115727 Violations: 0
+    ** tickEntity - EntityCow Time: 40821154 Count: 580 Avg: 70381 Violations: 0
+    ** tickEntity - EntityZombie Time: 75847297 Count: 1982 Avg: 38268 Violations: 0
+    ** tickEntity - EntityEnderman Time: 142404407 Count: 5104 Avg: 27900 Violations: 0
+    ** tickTileEntity - TileEntityFurnaceFurnace Time: 9521200 Count: 3474 Avg: 2740 Violations: 0
+    ** tickEntity - EntitySkeleton Time: 54126229 Count: 1741 Avg: 31089 Violations: 0
+    ** tickEntity - EntitySpider Time: 32915670 Count: 927 Avg: 35507 Violations: 0
+    ** tickEntity - EntityCreeper Time: 84841820 Count: 2726 Avg: 31123 Violations: 0
+    ** tickTileEntity - TileEntityChest Time: 24259466 Count: 22002 Avg: 1102 Violations: 0
+    ** tickTileEntity - TileEntityMobSpawner Time: 10901834 Count: 8106 Avg: 1344 Violations: 0
+    ** tickEntity - EntityWolf Time: 15361229 Count: 58 Avg: 264848 Violations: 0
+    ** tickEntity - EntityBat Time: 513626796 Count: 30087 Avg: 17071 Violations: 0
+    ** tickEntity - EntityChicken Time: 41097276 Count: 809 Avg: 50800 Violations: 0
+    ** tickEntity - EntityPigZombie Time: 34372246 Count: 1334 Avg: 25766 Violations: 0
+    ** tickEntity - EntityStrider Time: 433450956 Count: 4970 Avg: 87213 Violations: 0
+    ** tickTileEntity - TileEntityEndGateway Time: 19011609 Count: 15054 Avg: 1262 Violations: 0
+    Task: HolographicDisplays v2.4.3 Runnable: com.gmail.filoghost.holographicdisplays.task.WorldPlayerCounterTask(interval:60) Time: 323659 Count: 19 Avg: 17034 Violations: 0
+    ** Survival_nether - doChunkUnload Time: 1045328 Count: 1158 Avg: 902 Violations: 0
+    ** Survival_nether - doTickPending Time: 129723891 Count: 1158 Avg: 112024 Violations: 0
+    ** Survival_nether - doChunkMap Time: 15667904 Count: 1158 Avg: 13530 Violations: 0
+    ** Survival_nether - doSounds Time: 80515 Count: 1158 Avg: 69 Violations: 0
+    ** Survival_nether - entityTick Time: 1906378149 Count: 1158 Avg: 1646267 Violations: 0
+    ** Survival_nether - tileEntityTick Time: 5616467 Count: 1158 Avg: 4850 Violations: 0
+    ** Survival_nether - tileEntityPending Time: 77149 Count: 1158 Avg: 66 Violations: 0
+    ** Survival_nether - syncChunkLoad Time: 27908855 Count: 54220 Avg: 514 Violations: 0
+    Survival_nether - tracker Time: 48574743 Count: 1158 Avg: 41947 Violations: 0
+    Survival_nether - doTick Time: 2752733270 Count: 1158 Avg: 2377144 Violations: 0
+    Survival_nether - tickEntities Time: 1907741005 Count: 1158 Avg: 1647444 Violations: 0
+    ** tickEntity - EntityMagmaCube Time: 1623028593 Count: 35334 Avg: 45933 Violations: 0
+    ** Nuke - doChunkUnload Time: 1218799 Count: 1158 Avg: 1052 Violations: 0
+    ** Nuke - doTickPending Time: 936729 Count: 1158 Avg: 808 Violations: 0
+    ** Nuke - doChunkMap Time: 3940811 Count: 1158 Avg: 3403 Violations: 0
+    ** Nuke - doSounds Time: 166821 Count: 1158 Avg: 144 Violations: 0
+    ** Nuke - entityTick Time: 10828632 Count: 1158 Avg: 9351 Violations: 0
+    ** Nuke - tileEntityTick Time: 474539 Count: 1158 Avg: 409 Violations: 0
+    ** Nuke - tileEntityPending Time: 60632 Count: 1158 Avg: 52 Violations: 0
+    Nuke - tracker Time: 6352328 Count: 1158 Avg: 5485 Violations: 0
+    Nuke - doTick Time: 536430044 Count: 1158 Avg: 463238 Violations: 0
+    Nuke - tickEntities Time: 12651040 Count: 1158 Avg: 10924 Violations: 0
+    ** Cs_Go_Lobby - doChunkUnload Time: 768800 Count: 1158 Avg: 663 Violations: 0
+    ** Cs_Go_Lobby - doTickPending Time: 105744443 Count: 1158 Avg: 91316 Violations: 0
+    ** Cs_Go_Lobby - doChunkMap Time: 2194175 Count: 1158 Avg: 1894 Violations: 0
+    ** Cs_Go_Lobby - doSounds Time: 193046 Count: 1158 Avg: 166 Violations: 0
+    ** Cs_Go_Lobby - entityTick Time: 33722206 Count: 1158 Avg: 29121 Violations: 0
+    ** Cs_Go_Lobby - tileEntityTick Time: 253698 Count: 1158 Avg: 219 Violations: 0
+    ** Cs_Go_Lobby - tileEntityPending Time: 57378 Count: 1158 Avg: 49 Violations: 0
+    ** Cs_Go_Lobby - syncChunkLoad Time: 3747911 Count: 5650 Avg: 663 Violations: 0
+    Cs_Go_Lobby - tracker Time: 8304493 Count: 1158 Avg: 7171 Violations: 0
+    Cs_Go_Lobby - doTick Time: 627404257 Count: 1158 Avg: 541799 Violations: 0
+    Cs_Go_Lobby - tickEntities Time: 34801493 Count: 1158 Avg: 30053 Violations: 0
+    ** tickEntity - EntityPig Time: 23640970 Count: 404 Avg: 58517 Violations: 0
+    ** tickEntity - EntityHorse Time: 6319214 Count: 174 Avg: 36317 Violations: 0
+    ** Spawn_the_end - doChunkUnload Time: 984842 Count: 1158 Avg: 850 Violations: 0
+    ** Spawn_the_end - doTickPending Time: 16471410 Count: 1158 Avg: 14224 Violations: 0
+    ** Spawn_the_end - doChunkMap Time: 4213524 Count: 1158 Avg: 3638 Violations: 0
+    ** Spawn_the_end - doSounds Time: 207768 Count: 1158 Avg: 179 Violations: 0
+    ** Spawn_the_end - entityTick Time: 165826 Count: 1158 Avg: 143 Violations: 0
+    ** Spawn_the_end - tileEntityTick Time: 346700 Count: 1158 Avg: 299 Violations: 0
+    ** Spawn_the_end - tileEntityPending Time: 57569 Count: 1158 Avg: 49 Violations: 0
+    ** Spawn_the_end - syncChunkLoad Time: 643619 Count: 871 Avg: 738 Violations: 0
+    Spawn_the_end - tracker Time: 919812 Count: 1158 Avg: 794 Violations: 0
+    Spawn_the_end - doTick Time: 564949718 Count: 1158 Avg: 487866 Violations: 0
+    Spawn_the_end - tickEntities Time: 5380336 Count: 1158 Avg: 4646 Violations: 0
+    ** bedwars - doChunkUnload Time: 711368 Count: 1158 Avg: 614 Violations: 0
+    ** bedwars - doTickPending Time: 708726 Count: 1158 Avg: 612 Violations: 0
+    ** bedwars - doChunkMap Time: 3986727 Count: 1158 Avg: 3442 Violations: 0
+    ** bedwars - doSounds Time: 989512 Count: 1158 Avg: 854 Violations: 0
+    ** bedwars - entityTick Time: 35827906 Count: 1158 Avg: 30939 Violations: 0
+    ** bedwars - tileEntityTick Time: 18722379 Count: 1158 Avg: 16167 Violations: 0
+    ** bedwars - tileEntityPending Time: 63659 Count: 1158 Avg: 54 Violations: 0
+    ** bedwars - syncChunkLoad Time: 4962889 Count: 9496 Avg: 522 Violations: 0
+    bedwars - tracker Time: 2111089 Count: 1158 Avg: 1823 Violations: 0
+    bedwars - doTick Time: 555800394 Count: 1158 Avg: 479965 Violations: 0
+    bedwars - tickEntities Time: 36670684 Count: 1158 Avg: 31667 Violations: 0
+    ** tickTileEntity - TileEntityEnderChest Time: 8888884 Count: 4632 Avg: 1919 Violations: 0
+    ** tickEntity - EntityVillager Time: 33242569 Count: 1158 Avg: 28706 Violations: 0
+    ** bedwars_lobby - doChunkUnload Time: 1617857 Count: 1158 Avg: 1397 Violations: 0
+    ** bedwars_lobby - doTickPending Time: 475550 Count: 1158 Avg: 410 Violations: 0
+    ** bedwars_lobby - doChunkMap Time: 1920614 Count: 1158 Avg: 1658 Violations: 0
+    ** bedwars_lobby - doSounds Time: 134903 Count: 1158 Avg: 116 Violations: 0
+    ** bedwars_lobby - entityTick Time: 123454 Count: 1158 Avg: 106 Violations: 0
+    ** bedwars_lobby - tileEntityTick Time: 326336 Count: 1158 Avg: 281 Violations: 0
+    ** bedwars_lobby - tileEntityPending Time: 52608 Count: 1158 Avg: 45 Violations: 0
+    bedwars_lobby - tracker Time: 817999 Count: 1158 Avg: 706 Violations: 0
+    bedwars_lobby - doTick Time: 505382484 Count: 1158 Avg: 436427 Violations: 0
+    bedwars_lobby - tickEntities Time: 1030216 Count: 1158 Avg: 889 Violations: 0
+    ** Spawn - doChunkUnload Time: 1333212 Count: 1158 Avg: 1151 Violations: 0
+    ** Spawn - doTickPending Time: 101675121 Count: 1158 Avg: 87802 Violations: 0
+    ** Spawn - doChunkMap Time: 5500295 Count: 1158 Avg: 4749 Violations: 0
+    ** Spawn - doSounds Time: 188056 Count: 1158 Avg: 162 Violations: 0
+    ** Spawn - entityTick Time: 723824328 Count: 1158 Avg: 625064 Violations: 0
+    ** Spawn - tileEntityTick Time: 42782438 Count: 1158 Avg: 36945 Violations: 0
+    ** Spawn - tileEntityPending Time: 78792 Count: 1158 Avg: 68 Violations: 0
+    ** Spawn - syncChunkLoad Time: 16655496 Count: 36886 Avg: 451 Violations: 0
+    Spawn - tracker Time: 113159240 Count: 1158 Avg: 97719 Violations: 0
+    Spawn - doTick Time: 1644339133 Count: 1158 Avg: 1419981 Violations: 0
+    Spawn - tickEntities Time: 725274045 Count: 1158 Avg: 626316 Violations: 0
+    ** tickEntity - EntityItemFrame Time: 3077756 Count: 9264 Avg: 332 Violations: 0
+    ** tickTileEntity - TileEntityLightDetector Time: 9205534 Count: 10422 Avg: 883 Violations: 0
+    ** tickEntity - EntityArmorStand Time: 92935255 Count: 16212 Avg: 5732 Violations: 0
+    ** tickTileEntity - TileEntityBrewingStand Time: 3389474 Count: 1158 Avg: 2927 Violations: 0
+    Task: Multiverse-Core v4.1.0-b775 Runnable: com.onarandombox.buscript.ScriptTask(interval:20) Time: 154571 Count: 58 Avg: 2665 Violations: 0
+    Task: Multiverse-Inventories v3.0.0-b459 Runnable: com.onarandombox.multiverseinventories.InventoriesDupingPatch$UpdateTimeoutsTask(interval:1) Time: 1905013 Count: 1158 Avg: 1645 Violations: 0
+    Task: dynmap v3.1-beta-1-367 Runnable: org.dynmap.markers.impl.MarkerAPIImpl$DoFileWrites(Single) Time: 1461331 Count: 58 Avg: 25195 Violations: 0
+    Task: dynmap v3.1-beta-1-367 Runnable: org.dynmap.InternalClientUpdateComponent$3(Single) Time: 2292773 Count: 58 Avg: 39530 Violations: 0
+    Task: dynmap v3.1-beta-1-367 Runnable: org.dynmap.bukkit.DynmapPlugin$2(interval:1) Time: 2359307 Count: 1158 Avg: 2037 Violations: 0
+    Task: Essentials v2.18.0.0 Runnable: com.earth2me.essentials.EssentialsTimer(interval:50) Time: 130064 Count: 23 Avg: 5654 Violations: 0
+    Task: dynmap v3.1-beta-1-367 Runnable: Unknown(Single) Time: 739879 Count: 11 Avg: 67261 Violations: 0
+    Task: WorldGuard v7.0.4-beta1;bc551da Runnable: com.sk89q.worldguard.bukkit.session.BukkitSessionManager(interval:20) Time: 113024 Count: 58 Avg: 1948 Violations: 0
+    Task: SuperVanish v6.1.6 Runnable: de.myzelyam.supervanish.visibility.hiders.PreventionHider(interval:1) Time: 2329890 Count: 1158 Avg: 2011 Violations: 0
+    Task: SuperVanish v6.1.6 Runnable: de.myzelyam.supervanish.hooks.EssentialsHook$1(interval:100) Time: 415301 Count: 11 Avg: 37754 Violations: 0
+    ** tickEntity - EntityNMSArmorStand Time: 15542294 Count: 23160 Avg: 671 Violations: 0
+    Task: DiscordSRV v1.19.1 Runnable: github.scarsz.discordsrv.objects.Lag(interval:1) Time: 2153822 Count: 1158 Avg: 1859 Violations: 0
+    ** tickEntity - EntitySlime Time: 35924421 Count: 763 Avg: 47083 Violations: 0
+    Plugin: LuckPerms v5.1.26 Event: me.lucko.luckperms.bukkit.listeners.BukkitPlatformListener::onServerCommand(ServerCommandEvent) Time: 15815566 Count: 9264 Avg: 1707 Violations: 0
+    Plugin: LuckPerms v5.1.26 Event: me.lucko.luckperms.bukkit.BukkitCommandExecutor::onConsoleCommand(ServerCommandEvent) Time: 7121098 Count: 9264 Avg: 768 Violations: 0
+    Task: Skript v2.5-alpha6(rev1) Runnable: ch.njol.skript.bukkitutil.ClickEventTracker$$Lambda$6811/1641232864(interval:1) Time: 5100167 Count: 2316 Avg: 2202 Violations: 0
+    Plugin: Skript v2.5-alpha6(rev1) Event: ch.njol.skript.command.Commands$1::onServerCommand(ServerCommandEvent) Time: 4872990 Count: 9264 Avg: 526 Violations: 0
+    Plugin: CrackShot v0.98.9 Event: com.shampaggon.crackshot.CSDirector::onPressurePlate(EntityInteractEvent) Time: 240676 Count: 58 Avg: 4149 Violations: 0
+    Task: HolographicDisplays v2.4.3 Runnable: com.gmail.filoghost.holographicdisplays.placeholder.PlaceholdersManager$$Lambda$6814/621335077(interval:2) Time: 14052051 Count: 579 Avg: 24269 Violations: 0
+    Task: HolographicDisplays v2.4.3 Runnable: com.gmail.filoghost.holographicdisplays.bridge.bungeecord.BungeeServerTracker$$Lambda$6815/990801556(interval:60) Time: 43835 Count: 19 Avg: 2307 Violations: 0
+    Task: BackpacksRemastered v2020.0.4 Runnable: com.divisionind.bprm.events.custom.GameTickEvent$$Lambda$6816/993445731(interval:1) Time: 14621581 Count: 1158 Avg: 12626 Violations: 0
+    Plugin: BackpacksRemastered v2020.0.4 Event: com.divisionind.bprm.events.BackpackFurnaceTickEvent::onGameTick(GameTickEvent) Time: 3356382 Count: 1158 Avg: 2898 Violations: 0
+    Plugin: AdvancedPortals v0.5.6 Event: com.sekwah.advancedportals.bukkit.listeners.PortalPlacer::onBlockPhysics(BlockPhysicsEvent) Time: 266273 Count: 2127 Avg: 125 Violations: 0
+    Task: SkinsRestorer v13.8.3 Runnable: skinsrestorer.shared.utils.acf.BukkitCommandManager$$Lambda$6840/505545306(interval:5) Time: 1679013 Count: 232 Avg: 7237 Violations: 0
+    Task: WorldGuard v7.0.4-beta1;bc551da Runnable: com.sk89q.worldguard.bukkit.BukkitRegionContainer$$Lambda$6958/1148746321(interval:2) Time: 1162035 Count: 579 Avg: 2006 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockPhysics(BlockPhysicsEvent) Time: 419713 Count: 2127 Avg: 197 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.WorldGuardBlockListener::onBlockRedstoneChange(BlockRedstoneEvent) Time: 18970 Count: 57 Avg: 332 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.WorldGuardEntityListener::onEntityInteract(EntityInteractEvent) Time: 94169 Count: 58 Avg: 1623 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.BlacklistListener::onUseBlock(UseBlockEvent) Time: 9634 Count: 5 Avg: 1926 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.ChestProtectionListener::onUseBlock(UseBlockEvent) Time: 7167 Count: 5 Avg: 1433 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.RegionProtectionListener::onUseBlock(UseBlockEvent) Time: 325888 Count: 5 Avg: 65177 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.EventAbstractionListener::onEntityInteract(EntityInteractEvent) Time: 2132393 Count: 58 Avg: 36765 Violations: 0
+    Plugin: WorldGuard v7.0.4-beta1;bc551da Event: com.sk89q.worldguard.bukkit.listener.BuildPermissionListener::onUseBlock(UseBlockEvent) Time: 9446 Count: 5 Avg: 1889 Violations: 0
+    Plugin: CoreProtect v19.1 Event: net.coreprotect.listener.entity.EntityInteractListener::onEntityInteractEntity(EntityInteractEvent) Time: 161477 Count: 58 Avg: 2784 Violations: 0
+    Plugin: AuthMe v5.6.0-SNAPSHOT-b2418 Event: fr.xephi.authme.listener.EntityListener::onLowestEntityInteract(EntityInteractEvent) Time: 165718 Count: 58 Avg: 2857 Violations: 0
+    Plugin: AuthMe v5.6.0-SNAPSHOT-b2418 Event: fr.xephi.authme.listener.EntityListener::onEntityInteract(EntityInteractEvent) Time: 39913 Count: 58 Avg: 688 Violations: 0
+    Task: DiscordSRV v1.19.1 Runnable: github.scarsz.discordsrv.objects.threads.ServerWatchdog$$Lambda$7177/1707500361(interval:20) Time: 96434 Count: 58 Avg: 1662 Violations: 0
+# Version git-Spigot-0287a20-7560f5f (MC: 1.16.1)
+# Entities 549
+# LivingEntities 537
+Sample time 57883086169 (57.883086169s)
+<spigotConfig>
+# This is the main configuration file for Spigot.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Spigot wiki at
+# http://www.spigotmc.org/wiki/spigot-configuration/
+# 
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
+# Forums: http://www.spigotmc.org/
+
+config-version: 12
+settings:
+  save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  debug: false
+  log-villager-deaths: true
+commands:
+  tab-complete: 0
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  send-namespaced: true
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
+stats:
+  disable-saving: false
+  forced-stats: {}
+world-settings:
+  default:
+    view-distance: default
+    verbose: true
+    mob-spawn-range: 6
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
+      bamboo-modifier: 100
+      sweetberry-modifier: 100
+      kelp-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+      tick-inactive-villagers: true
+      raiders: 48
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 1
+    hopper-amount: 1
+    random-light-updates: false
+    save-structure-info: true
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: 987234911
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
+    squid-spawn-range:
+      min: 45.0
+    item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
+    end-portal-sound-radius: 0
+    trident-despawn-rate: 1200
+    seed-desert: 14357617
+    seed-igloo: 14357618
+    seed-jungle: 14357619
+    seed-swamp: 14357620
+    seed-shipwreck: 165745295
+    seed-ocean: 14357621
+    seed-outpost: 165745296
+    seed-endcity: 10387313
+    seed-bastion: 30084232
+    seed-fortress: 30084232
+    seed-mansion: 10387319
+    seed-fossil: 14357921
+    seed-portal: 34222645
+  worldeditregentempworld:
+    verbose: false
+
+</spigotConfig>
